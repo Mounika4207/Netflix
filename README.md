@@ -23,5 +23,9 @@ A responsive Netflix UI clone built using **HTML** and **CSS** to replicate the 
 - Implement login page
 - Improve responsiveness
 
+## 🌐 Live Demo
+🔗 https://mounika4207.github.io/Netflix/
+
+
 ## 👩‍💻 Author
 **Mounika Kattula**
