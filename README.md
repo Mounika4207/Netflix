@@ -1,5 +1,3 @@
-# Netflix UI Clone 🎬
-
 A responsive Netflix UI clone built using **HTML** and **CSS** to replicate the design and layout of Netflix's homepage.
 
 ## 🚀 Features
@@ -13,7 +11,8 @@ A responsive Netflix UI clone built using **HTML** and **CSS** to replicate the 
 - CSS3
 
 ## 📸 Screenshot
-(Add a screenshot of your project here)
+<img width="1858" height="996" alt="Screenshot 2026-01-22 212824" src="https://github.com/user-attachments/assets/cf5fc718-21aa-4cbf-a136-98d4931784ce" /># Netflix UI Clone 🎬
+
 
 ## 📂 How to Run
 1. Download or clone the repository
