@@ -16,7 +16,7 @@ A responsive Netflix UI clone built using **HTML** and **CSS** to replicate the 
 
 ## 📂 How to Run
 1. Download or clone the repository
-2. Open `index.html` in your browser
+2. Open `code.html` in your browser
 
 ## ✨ Future Improvements
 - Add JavaScript for interactivity
@@ -24,4 +24,4 @@ A responsive Netflix UI clone built using **HTML** and **CSS** to replicate the 
 - Improve responsiveness
 
 ## 👩‍💻 Author
-**Mounika K**
+**Mounika Kattula**
